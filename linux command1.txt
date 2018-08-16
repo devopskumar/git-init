@@ -34,4 +34,22 @@
    67  ls -ltr
    68  chmod g+w file4
    69  ls -ltr
-   
+
+   70  chmod g-w file4
+   71  ls -ltr
+   72  umask
+   73  groupadd testing
+   74  usermod -G testing pavithra
+   75  id pavithra
+   76  cat /etc/group
+   77  cat /etc/group |grep -i pavithra
+   78  useradd prem
+   79  chown pavithra:testing test2
+   80  touch test2
+   81  chown pavithra:testing test2
+   82  ls -ld test2
+   83  tar -cvf /pavithra.tar /usr
+   84  ls -ltr
+   85  history
+
+class testing purpose
