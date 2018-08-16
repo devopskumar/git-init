@@ -1,1 +1,5 @@
 kumar git class
+
+
+
+git branch checked with merge and rebase commands
