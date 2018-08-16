@@ -1,9 +1,11 @@
 kumar git class
 
-<<<<<<< HEAD
+
 
 
 git branch checked with merge and rebase commands
-=======
+
+
+
 chekcing the diff command using git diff
->>>>>>> 247eb0f9a46202e6ea3ae72b5a85e787fec88e07
+
