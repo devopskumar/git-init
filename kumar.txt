@@ -1,1 +1,3 @@
 kumar git class
+
+chekcing the diff command using git diff
